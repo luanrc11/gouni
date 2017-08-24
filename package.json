@@ -1,0 +1,19 @@
+{
+  "name": "gouni",
+  "version": "1.0.0",
+  "description": "projeto de avaliação e comparação de faculdades para o tcc do curso de sistemas de informação",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luanrc11/gouni.git"
+  },
+  "author": "Luan Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luanrc11/gouni/issues"
+  },
+  "homepage": "https://github.com/luanrc11/gouni#readme"
+}
